@@ -9,3 +9,11 @@ I love working out in my spare time, so i thougth, why not make a website about 
 - The `flexbox` properties
 - Heavily focused on creating lot's of different `transitions` and working with the `transform` property
 - How to create a good looking pricing table (membership package)
+
+
+## How it looks 🎥
+
+**Live:** https://herogym.netlify.app/home/home
+
+https://user-images.githubusercontent.com/71933266/170868310-5ad8c906-64f9-4c5d-a13f-9a93cd47b761.mp4
+
